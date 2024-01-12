@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\OrderManagementSyatem\OrderManagementSyatem\bin\Debug\OrderManagementSyatem.exe.config
+C:\Users\LENOVO\source\repos\OrderManagementSyatem\OrderManagementSyatem\bin\Debug\OrderManagementSyatem.exe
+C:\Users\LENOVO\source\repos\OrderManagementSyatem\OrderManagementSyatem\bin\Debug\OrderManagementSyatem.pdb
+C:\Users\LENOVO\source\repos\OrderManagementSyatem\OrderManagementSyatem\obj\Debug\OrderManagementSyatem.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\OrderManagementSyatem\OrderManagementSyatem\obj\Debug\OrderManagementSyatem.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\OrderManagementSyatem\OrderManagementSyatem\obj\Debug\OrderManagementSyatem.exe
+C:\Users\LENOVO\source\repos\OrderManagementSyatem\OrderManagementSyatem\obj\Debug\OrderManagementSyatem.pdb
