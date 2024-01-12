@@ -179,7 +179,7 @@ namespace OrderManagementSyatem.DAO
                 SqlCommand cmd = new SqlCommand();
                 cmd.Connection = conn;
                 cmd.CommandType = System.Data.CommandType.Text;
-                cmd.CommandText = $"select o.orderId,p.productid,p.productName,p.description,p.type,o.date from orders o join product p  on p.productid=o.orderId where o.userId=1";
+                cmd.CommandText = $"select o.orderId,p.productid,p.productName,p.description,p.type,o.date from orders o join product p  on p.productid=o.orderId where o.userId={user.userid}";
                 conn.Open();
                 SqlDataReader reader = cmd.ExecuteReader();
                 if (reader.HasRows)
